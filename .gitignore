@@ -1,0 +1,5 @@
+*.o
+a.out
+.helloworld.c.swp
+helloworld.c~
+#helloworld.c#
