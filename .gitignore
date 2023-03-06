@@ -3,3 +3,7 @@ a.out
 .helloworld.c.swp
 helloworld.c~
 #helloworld.c#
+.geometry.c.swp
+geometry.c~
+#geometry.c#
+geometry
